@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识点速记"
+  short_description: "提炼知识关键词、一句话总结、记忆钩子以及十秒回想题"
+  default_prompt: "Use $quick-memory-hook to turn this knowledge point into a concise Chinese memory hook."
