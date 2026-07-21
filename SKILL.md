@@ -1,9 +1,9 @@
 ---
-name: quick-memory-hook
+name: quick-memory
 description: Turn user-provided knowledge points into concise Chinese memory aids by extracting core keywords, stating the relationship in one plain-language sentence, creating an accurate mnemonic or analogy, and adding a quick active-recall check. Use when the user asks to quickly remember, summarize, distill, recite, memorize, make a口诀/助记句/记忆钩子, extract keywords from study material, or convert a concept into a short review aid.
 ---
 
-# Quick Memory Hook
+# Quick Memory
 
 Turn one knowledge unit into the smallest accurate package that the user can understand and recall quickly.
 
